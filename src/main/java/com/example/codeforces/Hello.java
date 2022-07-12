@@ -3,7 +3,7 @@ import java.util.*;
 public class Hello {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
-        int t,s1,s2,j,i,n;
+        int t,s1,s2,j,i,c,p,l,n;
         long k,d;
         t=sc.nextInt();
         for(j=1;j<=t;j++){
